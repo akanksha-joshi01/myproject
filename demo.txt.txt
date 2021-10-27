@@ -1,0 +1,1 @@
+	1.	open windows explorer navigate to file and make a new .txt file example:demo.txt
